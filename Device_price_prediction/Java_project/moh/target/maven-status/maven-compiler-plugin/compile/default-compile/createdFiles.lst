@@ -1,0 +1,4 @@
+com\example\moh\model\Device.class
+com\example\moh\DeviceApplication.class
+com\example\moh\controller\DeviceController.class
+com\example\moh\repository\DeviceRepository.class
