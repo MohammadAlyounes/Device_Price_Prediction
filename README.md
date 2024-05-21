@@ -3,4 +3,6 @@ Give an input payload included with specs of the device (features) and will get 
 
 The project has two components: Python project and Java project.
 
-1) Python project included with 
+1) Python project included model development and data cleaning using Jupyter Notebook.
+
+2) For Java project 
