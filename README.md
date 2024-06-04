@@ -1,4 +1,6 @@
 # Device_Price_Prediction
+## Level: Easy
+## Main Goal of Project: Show the simple and necessary steps to develop an end-to-end Machine learning project. Show how to handle two different programming languages for the same project
 Given an input payload (JSON) included with specs of the device (features) it will get an output as API. (There are more).
 
 The project has two components: Python project and Java project.
@@ -13,7 +15,7 @@ The project has two components: Python project and Java project.
 
 
 
-Some Further improvement(in progress):
+Some Further improvement
 1) More collection to train data.
 2) More exploratory data analysis such as correlation matrix and feature importance plots.
 3) Try more open choices of ML algorithms such as Xgboost.
